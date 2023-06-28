@@ -8,8 +8,7 @@ I'm 27 years old and I work as a Software Developer at Grupo SBF!
 - 😄 Pronouns: he/his
 - ⚡ Languages: TypeScript, JavaScript, Python, Dart,
 
-> Remmember: you can do it (ง'̀-'́)ง
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-marceloarthur-063f5b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-arthur/)](https://www.linkedin.com/in/marcelo-arthur/) [![Gmail Badge](https://img.shields.io/badge/-marcelobragalemos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelobragalemos@gmail.com)](mailto:marcelobragalemos@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@oimarceloarthur-0f0f0f?style=flat-square&labelColor=0f0f0f&logo=Instagram&logoColor=white&link=https://www.instagram.com/oimarceloarthur/)](https://www.instagram.com/oimarceloarthur/) 
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-white?style=flat-square&logo=Stackoverflow)](https://stackoverflow.com/users/11197522/marcelo-arthur)
+[![Medium Badge](https://img.shields.io/badge/-Medium-0f0f0f?style=flat-square&logo=Medium)](https://medium.com/@marcelobragalemos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-063f5b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-arthur/)](https://www.linkedin.com/in/marcelo-arthur/)
+[![Gmail Badge](https://img.shields.io/badge/-marcelobragalemos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelobragalemos@gmail.com)](mailto:marcelobragalemos@gmail.com)
