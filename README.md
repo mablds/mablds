@@ -6,7 +6,7 @@ I'm 27 years old and I work as a Software Developer at Grupo SBF!
 - 🌱 I’m changing my main stack from Backend to Frontend (Mobile)
 - 💬 Ask me about tech, food, cs:go, basketball or boardgames
 - 😄 Pronouns: he/his
-- ⚡ Languages: TypeScript, JavaScript, Python, Dart,
+- ⚡ Languages: TypeScript, JavaScript, Python and Dart.
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-white?style=flat-square&logo=Stackoverflow)](https://stackoverflow.com/users/11197522/marcelo-arthur)
 [![Medium Badge](https://img.shields.io/badge/-Medium-0f0f0f?style=flat-square&logo=Medium)](https://medium.com/@marcelobragalemos)
