@@ -4,7 +4,7 @@ I'm 27 years old and I work as a Software Developer at Grupo SBF!
 
 - 🔭 I’m currently working as a Mobile Developer with Dart and Flutter
 - 🌱 I’m changing my main stack from Backend to Mobile
-- 💬 Ask me about tech, 3D printing, cs:go, rocket league, basketball or boardgames
+- 💬 Ask me about 3D printing, cs:go, simracing, basketball or boardgames
 - 😄 Pronouns: he/his
 - ⚡ Languages: TypeScript, JavaScript, Python, Go and Dart
 
